@@ -2,7 +2,7 @@ import os
 import json
 
 music_folder = "docs"
-base_url = "https://yourusername.github.io/MyMusicFiles/"
+base_url = "https://indiekapi.github.io/NCS-Music-Streaming-For-Games/"
 playlist = {"songs": []}
 
 for filename in os.listdir(music_folder):
